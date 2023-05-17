@@ -1,0 +1,14 @@
+.complete{
+    text-decoration: line-through;
+    text-decoration-color: rgb(173, 4, 4);
+  
+}
+.item{
+      display:flex;
+      justify-content: center;
+      align-items: center;
+}  
+p{
+    font-family: cursive;
+}
+
